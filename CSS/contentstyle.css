@@ -224,13 +224,48 @@ footer{
 	align:center;
 	background-color: #f2ebe5;
 	text-align: center;
-	height: 200px;
+	height: 550px;
 }
 .add_info p{
 	font-size:50 px;
 }
 
-/*
-.timeline ul: hover{
-	background-color: red;
-}*/
+.events1{
+	height: 600px;
+
+}
+
+.events2{
+	height: 750px;
+
+}
+
+.events1:hover{
+	background-color:#2f365f;
+	color: white;
+}
+
+.events2:hover{
+	background-color:#2f365f;
+	color: white;
+}
+
+.events1 img{
+	margin: 10px auto 20px;
+	
+	display: block;
+
+}
+
+.events2 img{
+	margin: 10px auto 20px;
+	
+	display: block;
+
+}
+
+.eventsText{
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 10px;
+}
